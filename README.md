@@ -115,7 +115,7 @@ Tools: Jira, Postman, MySQL
 
 #### 1.2. Functionalities in scope
 - All the features of Admin module which were defined in business requirements need to be tested: functional testing, GUI testing and API testing 
-- The below user story was created in Jira and describes functional specifications of the Admin module
+- The below user story was created in Jira and describes functional specifications of the PIM module, for which the final project is performed upon.
 
 *Screenshots din Jira cu user story-ul 
 
