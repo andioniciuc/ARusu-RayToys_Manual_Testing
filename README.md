@@ -108,7 +108,7 @@ Application under test: https://opensource-demo.orangehrmlive.com/web/index.php/
 
 Application documentation: https://www.orangehrm.com/assets/Files/Complete-Administrative-User-Guide.pdf?url=/Files/Complete-Administrative-User-Guide.pdf 
 
-Tools: Jira, Postman, MySQL 
+Tools used: JIRA, Zephyr Squad, Postman, MySQL Workbench.
 
 * If needed: The final project will be split into 2 sections: Testing section (Jira, Postman) and SQL Section (MySQL)
 
