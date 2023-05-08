@@ -129,7 +129,12 @@ Tools used: JIRA, Zephyr Squad, Postman, MySQL Workbench.
     
     ### 2. Test process
 #### 2.1. Test planning
-**Roles and responsibilities**
+
+The Test Plan is designed to describe all details of testing for the PIM module from the OrangeHRM application.
+
+The plan identifies the items to be tested, the features to be tested, the types of testing to be performed, the personnel responsible for testing, the resources and schedule required to complete testing, and the risks associated with the plan.
+
+**Roles assigned to the project, persons allocated and responsibilities**
 | Role  | Name |
 |---|---|
 | Product Owner | Anca Pop |
