@@ -126,7 +126,6 @@ The plan identifies the items to be tested, the features to be tested, the types
 #### 2.4 Test implementation
 Verify if the following elements are ready before test execution:
 * Test environment is up and running: https://raytoys.ro 
-- Access to test environment is given: username , password: 
 + Cycle summary was created 
 - Test cases were added to the cycle summary 
  
@@ -140,8 +139,8 @@ Verify if the following elements are ready before test execution:
 #### 2.6 Test closure
 - All exit criteria were met as mentioned in the Test Planning section (2.1)
 - The traceability matrix was generated to demonstrate the business requirements coverage
-- Test execution chart was generated, the final report shows a number of 3 failed test cases of a total 30
-- There are still 3 opened defects but they have low priority
+- Test execution chart was generated, the final report shows a number of 7 failed test cases of a total 64
+
 #### 2.7 Test monitoring and control
 Various periodic reports were generated to reflect the current status of the testing process, in case of major problems control measures could be taken.
 
@@ -202,6 +201,7 @@ A test schedule includes the testing steps or tasks, the target start and end da
 
 
 | Task  | Date | Name/Team member  | 
+|---|---|---|---|
 |Setup Project in Jira|28.04. 2023| Andreea Ioana Rusu |
 | Run functional test cases | 28.04. 2023 | Andreea Ioana Rusu  |   
 | Run GUI test cases | 02.05. 2023 | Andreea Ioana Rusu  | 
