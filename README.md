@@ -139,7 +139,8 @@ Verify if the following elements are ready before test execution:
 
 #### 2.7 Test monitoring and control
 Various periodic reports were generated to reflect the current status of the testing process, in case of major problems control measures could be taken.
-Test Monitoring Progress
+
+![Test Monitoring Progress](https://github.com/andioniciuc/ARusu-RayToys_Manual_Testing/blob/main/DailyTestExecutionProgress.pdf)
 
 A time report file was exported as pdf, from Jira as attached: ![Time by Status Report](https://github.com/andioniciuc/ARusu-RayToys_Manual_Testing/blob/main/TimebyStatusReport.pdf)
 
