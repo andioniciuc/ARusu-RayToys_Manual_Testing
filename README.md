@@ -201,7 +201,7 @@ A test schedule includes the testing steps or tasks, the target start and end da
 
 
 | Task  | Date | Name/Team member  | 
-|---|---|---|---|
+|---|---|---|
 |Setup Project in Jira|28.04. 2023| Andreea Ioana Rusu |
 | Run functional test cases | 28.04. 2023 | Andreea Ioana Rusu  |   
 | Run GUI test cases | 02.05. 2023 | Andreea Ioana Rusu  | 
