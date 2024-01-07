@@ -1,5 +1,5 @@
-# ARusu-OrangeHRM-PIM-Module
-ARusu-Testare-Manuala-OrangeHRM-PIM-Module
+# ARusu-RayToys
+ARusu-Testare-Manuala-RayToys
 
 
 
@@ -46,9 +46,9 @@ ARusu-Testare-Manuala-OrangeHRM-PIM-Module
 ​
 
 
-Orange HRM **project**.
+RayToys **project**.
 
-Orange *HRM* project
+RayToys *TManual Testing* project
 ​
 
 
@@ -99,30 +99,26 @@ The test cases can be found here [Test Case No. 1](https://github.com/andioniciu
 
 
 ### 1. Introduction
-This test plan document describes the strategies, process, workflows and methodologies used to plan, organize, execute and manage testing process for OrangeHRM.
+This test plan document describes the strategies, process, workflows and methodologies used to plan, organize, execute and manage testing process for RayToys.
 
 #### 1.1. Project Objective
 The scope of the final project for ITF Manual Testing Course is to use all gained knowledge through the course and apply them in practice, using a live application. 
 
-Application under test: https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index the focus will be only on Admin module
+Application under test: https://raytoys.ro/.
 
-Application documentation: https://www.orangehrm.com/assets/Files/Complete-Administrative-User-Guide.pdf?url=/Files/Complete-Administrative-User-Guide.pdf 
-
-Tools used: JIRA, Zephyr Squad, Postman, MySQL Workbench.
-
-* If needed: The final project will be split into 2 sections: Testing section (Jira, Postman) and SQL Section (MySQL)
+Tools used: JIRA, Zephyr Squad.
 
 
 #### 1.2. Functionalities in scope
-- All the features of Admin module which were defined in business requirements need to be tested: functional testing, GUI testing and API testing 
-- The below user story was created in Jira and describes functional specifications of the PIM module, for which the final project is performed upon.
+- Features that need to be tested: functional testing and GUI testing. 
+- The below user story was created in Jira and describes functional specifications of the website, for which the final project is performed upon.
 
 *Screenshots din Jira cu user story-ul 
 
 #### 1.3.Functionalities and tests out of scope
-- Non-functional testing like stress, performance is beyond scope of this project 
+- Non-functional testing like stress, performance is beyond scope of this project. 
 - No QA support for mobile application developed. Only web application will be tested. 
-- Automation testing is beyond scope
+- Automation testing is beyond scope.
 
 
     
@@ -130,7 +126,7 @@ Tools used: JIRA, Zephyr Squad, Postman, MySQL Workbench.
     ### 2. Test process
 #### 2.1. Test planning
 
-The Test Plan is designed to describe all details of testing for the PIM module from the OrangeHRM application.
+The Test Plan is designed to describe all details of testing for the Ray Toys website.
 
 The plan identifies the items to be tested, the features to be tested, the types of testing to be performed, the personnel responsible for testing, the resources and schedule required to complete testing, and the risks associated with the plan.
 
@@ -158,7 +154,7 @@ The plan identifies the items to be tested, the features to be tested, the types
 - All business requirements have been met 
 
 **Risks:**
-- Project risks: lack of experience of QA team, lack of tools, short deadline for Jira and Zephyr Squad, unavailability of OrangeHRM demo environment
+- Project risks: lack of experience of QA team, lack of tools, short deadline for Jira and Zephyr Squad, unavailability of RayToys demo environment
 - Product risks: Validation constraints on the fields might be too restrictive to the end user 
 
 #### 2.2 Test analysis 
@@ -168,8 +164,6 @@ The plan identifies the items to be tested, the features to be tested, the types
 #### 2.3 Test design
 - Functional test cases will be created in Jira 
 - GUI test cases will be created in Jira 
-- API test case will be created in Postman 
-- Queries in DB will be done in MySQL
 
 
 
@@ -177,12 +171,11 @@ The plan identifies the items to be tested, the features to be tested, the types
 
 #### 2.4 Test implementation
 Verify if the following elements are ready before test execution:
-* Test environment is up and running: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login 
-- Access to test environment is given: username Admin, password: admin 123
+* Test environment is up and running: https://raytoys.ro 
+- Access to test environment is given: username , password: 
 + Cycle summary was created 
 - Test cases were added to the cycle summary 
-- Postman collection with the API methods was created 
-- Authorization token was created accessing the API and it is valid 
+ 
 
 
 #### 2.5 Test execution
