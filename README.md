@@ -19,49 +19,14 @@ ARusu-Testare-Manuala-RayToys
 |---|---|
 | Product Owner | Anca Pop |
 | Software Developer | Diana Popescu |
-| Software Tester | Andreea Rusu |
+| Software Tester | Andreea Ioana Rusu |
 
 
 | Date  | Description | Author  | Comments |
 |---|---|---|---|
-| 28.04.2023 | V1.0 | Andreea Rusu  |   |
-| 05.05.2023 | V1.1 | Andrada Pop  | More details added on Test Implementation |
-| 05.06.2023 | V1.2 | Andreea Rusu  | Test completion report added |
-
-
-1. First item
-2. Second item
-3. Third item
-    1. Indented item
-    2. Indented item
-4. Fourth item 
-
-- First item
-- Second item
-- Third item
-    - Indented item
-    - Indented item
-- Fourth item 
-
-​
-
-
-RayToys **project**.
-
-RayToys *TManual Testing* project
-​
-
-
-
-
-
-
-​
-
-
-
-​
-
+| 28.04.2023 | V1.0 | Andreea Ioana Rusu  |   |
+| 05.05.2023 | V1.1 | Andreea Ioana Rusu | More details added on Test Implementation |
+| 05.06.2023 | V1.2 | Andreea Ioana Rusu  | Test completion report added |
 
 
     1. Introduction
@@ -242,20 +207,20 @@ A test schedule includes the testing steps or tasks, the target start and end da
 | Run GUI test cases | 02.05. 2023 | Andreea Ioana Rusu  | 
 | Summary | 05.06.2023 | Andreea Ioana Rusu  | 
 
-General conclusions
+# General conclusions
 
-    Putting the acquired knowledge into practice; testing the RayToys website, through the JIRA application and the Zephyr plugin.
+Putting the acquired knowledge into practice; testing the RayToys website, through the JIRA application and the Zephyr plugin.
 
-    Total number of Story: 11
+Total number of Story: 11
 
-    Total number of Taste Cases / Total number of Run Test Cases: 64
+Total number of Taste Cases / Total number of Run Test Cases: 64
 
-    Bugs: 7, 2 high and 5 medium medium severity, degree of affecting the user: Low
+Bugs: 7, 2 high and 5 medium medium severity, degree of affecting the user: Low
 
-    The application was tested on the selected segment, which has optimal functionality.
+The application was tested on the selected segment, which has optimal functionality.
 
-    No major defects and impact on the user.
+No major defects and impact on the user.
 
-    The segment can be launched in real environment by the client.
+The segment can be launched in real environment by the client.
 
 
