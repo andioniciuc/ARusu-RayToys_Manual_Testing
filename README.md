@@ -57,13 +57,13 @@ RayToys *TManual Testing* project
 ​
 
 
-![Test conditions](https://github.com/andioniciuc/Proiect-Testare-Manuala/blob/main/271995698_143580008090271_4756762964896555660_n.jpg)
+![Test conditions](https://github.com/andioniciuc/Proiect-Testare-Manuala/blob/main/Tests.pdf)
 
 ​
 
 
 
-The test cases can be found here [Test Case No. 1](https://github.com/andioniciuc/Proiect-Testare-Manuala/blob/main/Regina%20Maria_Cum%20te%20poti%20proteja%20de%20canicula.pdf)
+The test cases can be found here [Test Case No. 1](https://github.com/andioniciuc/Proiect-Testare-Manuala/blob/main/Tests.pdf)
 
 
 
