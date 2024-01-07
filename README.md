@@ -237,8 +237,25 @@ A test schedule includes the testing steps or tasks, the target start and end da
 
 
 | Task  | Date | Name/Team member  | 
-|---|---|---|
-| Run functional test cases for Job submenu of Admin module | 28.04. 2023 | Andreea Rusu  |   
-| Run GUI test cases for Job submenu of Admin module | 02.05. 2023 | Andreea Rusu  | 
-| Summary | 05.06.2023 | Andreea Rusu  | 
+|Setup Project in Jira|28.04. 2023| Andreea Ioana Rusu |
+| Run functional test cases | 28.04. 2023 | Andreea Ioana Rusu  |   
+| Run GUI test cases | 02.05. 2023 | Andreea Ioana Rusu  | 
+| Summary | 05.06.2023 | Andreea Ioana Rusu  | 
+
+General conclusions
+
+    Putting the acquired knowledge into practice; testing the RayToys website, through the JIRA application and the Zephyr plugin.
+
+    Total number of Story: 11
+
+    Total number of Taste Cases / Total number of Run Test Cases: 64
+
+    Bugs: 7, 2 high and 5 medium medium severity, degree of affecting the user: Low
+
+    The application was tested on the selected segment, which has optimal functionality.
+
+    No major defects and impact on the user.
+
+    The segment can be launched in real environment by the client.
+
 
