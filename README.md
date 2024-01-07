@@ -57,13 +57,13 @@ RayToys *TManual Testing* project
 ​
 
 
-![Test conditions](https://github.com/andioniciuc/Proiect-Testare-Manuala/blob/main/Tests.pdf)
+![Test conditions](https://github.com/andioniciuc/ARusu-RayToys/blob/main/Tests.pdf)
 
 ​
 
 
 
-The test cases can be found here [Test Case No. 1](https://github.com/andioniciuc/Proiect-Testare-Manuala/blob/main/Tests.pdf)
+The test cases can be found here [Test Case No. 1](https://github.com/andioniciuc/ARusu-RayToys/blob/main/Tests.pdf)
 
 
 
