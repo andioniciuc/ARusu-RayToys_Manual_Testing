@@ -206,8 +206,8 @@ The test cases can be found here [Test Case No. 1](https://github.com/andioniciu
 
 #### 3.4. Daily test summary report 
 *The daily report was generated: 
+![Test Summary](https://github.com/andioniciuc/ARusu-RayToys_Manual_Testing/blob/main/Test Summary.png)
 
--screenshot Jira 
 
 #### 3.5. Traceability matrix
 *The traceability matrix was generated: 
