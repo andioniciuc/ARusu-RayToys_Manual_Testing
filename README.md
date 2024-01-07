@@ -225,7 +225,7 @@ The test cases can be found here [Test Case No. 1](https://github.com/andioniciu
 
 #### 3.8. Test completion report
 *The test completion report generated from Jira:
-![Bug Report](https://github.com/andioniciuc/ARusu-RayToys_Manual_Testing/blob/main/Zephyr Test Steps + Executions + Results (Jira).pdf)
+![Test Completion Report](https://github.com/andioniciuc/ARusu-RayToys_Manual_Testing/blob/main/ZephyrTestSteps+Executions+Results(Jira).pdf)
 
 
 
