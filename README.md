@@ -52,18 +52,7 @@ RayToys *TManual Testing* project
 ​
 
 
-## These are the test conditions
 
-​
-
-
-![Test conditions](https://github.com/andioniciuc/ARusu-RayToys_Manual_Testing/blob/main/Tests.pdf)
-
-​
-
-
-
-The test cases can be found here [Test Case No. 1](https://github.com/andioniciuc/ARusu-RayToys_Manual_Testing/blob/main/Tests.pdf)
 
 
 
@@ -200,8 +189,14 @@ Various periodic reports were generated to reflect the current status of the tes
 The plan identifies the items to be tested, the features to be tested, the type of testing to be performed, the roles and responsibilities for the testing process, the resources and schedule required to complete testing and the risks associated with the plan. 
 
 #### 3.2. Test conditions
-_*The following test conditions were created: 
+The following test conditions were created: 
+![Test conditions](https://github.com/andioniciuc/ARusu-RayToys_Manual_Testing/blob/main/Tests.pdf)
 
+​
+
+
+
+The test cases can be found here [Test Case No. 1](https://github.com/andioniciuc/ARusu-RayToys_Manual_Testing/blob/main/Tests.pdf)
 -screenshot Jira 
 
 #### 3.3. Test cases
