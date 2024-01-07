@@ -165,8 +165,8 @@ The test cases can be found here [Test Case No. 1](https://github.com/andioniciu
 
 #### 3.3. Test cases
 *The following test cases were created: 
+![Test Cases](https://github.com/andioniciuc/ARusu-RayToys_Manual_Testing/blob/main/TestCases(Jira).pdf)
 
--screenshot Jira 
 
 #### 3.4. Daily test summary report 
 *The daily report was generated: 
@@ -215,7 +215,7 @@ Total number of Story: 11
 
 Total number of Taste Cases / Total number of Run Test Cases: 64
 
-Bugs: 7, 2 high and 5 medium medium severity, degree of affecting the user: Low
+Bugs: 7 (2 high and 5 medium severity), degree of affecting the user: Low
 
 The application was tested on the selected segment, which has optimal functionality.
 
