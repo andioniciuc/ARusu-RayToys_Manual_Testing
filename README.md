@@ -217,8 +217,7 @@ The test cases can be found here [Test Case No. 1](https://github.com/andioniciu
 
 #### 3.6. Test case results
 *The test cases results:
-
--pdf exported from Jira with all test cases and results
+![Test Cases Results](https://github.com/andioniciuc/ARusu-RayToys_Manual_Testing/blob/main/TestCases_w_Results.pdf)
 
 #### 3.7. Bugs report
 *The bug reports exported from Jira:
