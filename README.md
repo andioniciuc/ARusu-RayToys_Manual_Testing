@@ -211,8 +211,9 @@ The test cases can be found here [Test Case No. 1](https://github.com/andioniciu
 
 #### 3.5. Traceability matrix
 *The traceability matrix was generated: 
+![Traceability Matrix](https://github.com/andioniciuc/ARusu-RayToys_Manual_Testing/blob/main/Traceability_Matrix.png)
 
--screenshot Jira 
+
 
 #### 3.6. Test case results
 *The test cases results:
