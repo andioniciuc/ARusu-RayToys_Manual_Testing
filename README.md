@@ -220,9 +220,8 @@ The test cases can be found here [Test Case No. 1](https://github.com/andioniciu
 ![Test Cases Results](https://github.com/andioniciuc/ARusu-RayToys_Manual_Testing/blob/main/TestCases_w_Results.pdf)
 
 #### 3.7. Bugs report
-*The bug reports exported from Jira:
-
--pdf exported from Jira with all bug reports
+*The bug report exported from Jira:
+![Bug Report](https://github.com/andioniciuc/ARusu-RayToys_Manual_Testing/blob/main/Bug_Report.pdf)
 
 #### 3.8. Test completion report
 *The test completion report generated from Jira:
