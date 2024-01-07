@@ -215,6 +215,7 @@ The test cases can be found here [Test Case No. 1](https://github.com/andioniciu
 
 Traceability report was also exported in pdf format: https://github.com/andioniciuc/ARusu-RayToys_Manual_Testing/blob/main/TraceabilityReport(Direct-Only)(Jira).pdf)
 
+To show the time line a Gantt Chart was done: ![Gantt Chart (Jira)](https://github.com/andioniciuc/ARusu-RayToys_Manual_Testing/blob/main/GanttChart(Jira).pdf)
 
 #### 3.6. Test case results
 *The test cases results:
