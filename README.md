@@ -117,9 +117,6 @@ The plan identifies the items to be tested, the features to be tested, the types
 
 #### 2.3 Test design
 - Functional test cases will be created in Jira 
-- GUI test cases will be created in Jira 
-
-
 
 
 
@@ -128,7 +125,6 @@ Verify if the following elements are ready before test execution:
 * Test environment is up and running: https://raytoys.ro 
 + Cycle summary was created 
 - Test cases were added to the cycle summary 
- 
 
 
 #### 2.5 Test execution
@@ -143,9 +139,9 @@ Verify if the following elements are ready before test execution:
 
 #### 2.7 Test monitoring and control
 Various periodic reports were generated to reflect the current status of the testing process, in case of major problems control measures could be taken.
+Test Monitoring Progress
 
-
-
+A time report file was exported as pdf, from Jira as attached: ![Time by Status Report](https://github.com/andioniciuc/ARusu-RayToys_Manual_Testing/blob/main/TimebyStatusReport.pdf)
 
 #### 3. Test deliverables
 
@@ -157,12 +153,6 @@ The following test conditions were created:
 ![Test conditions](https://github.com/andioniciuc/ARusu-RayToys_Manual_Testing/blob/main/Tests.pdf)
 
 ​
-
-
-
-The test cases can be found here [Test Case No. 1](https://github.com/andioniciuc/ARusu-RayToys_Manual_Testing/blob/main/Tests.pdf)
--screenshot Jira 
-
 #### 3.3. Test cases
 *The following test cases were created: 
 ![Test Cases](https://github.com/andioniciuc/ARusu-RayToys_Manual_Testing/blob/main/TestCases(Jira).pdf)
