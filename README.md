@@ -130,7 +130,7 @@ Verify if the following elements are ready before test execution:
 #### 2.5 Test execution
 - Test cases are executed on the created cycle summary 
 - Bugs have been created based on the failed test cases. The complete bug reports can be found here: *se poate pune link catre un fisier cu bug reports in Github 
-- API tests are executed based on the checklist (requirements)
+- All tests are executed based on the checklist (requirements)
 - Full regression pack is executed after changes made to the application 
 #### 2.6 Test closure
 - All exit criteria were met as mentioned in the Test Planning section (2.1)
