@@ -24,9 +24,9 @@ ARusu-Testare-Manuala-RayToys
 
 | Date  | Description | Author  | Comments |
 |---|---|---|---|
-| 28.04.2023 | V1.0 | Andreea Ioana Rusu  |   |
-| 05.05.2023 | V1.1 | Andreea Ioana Rusu | More details added on Test Implementation |
-| 05.06.2023 | V1.2 | Andreea Ioana Rusu  | Test completion report added |
+| 01.10.2023 | V1.0 | Andreea Ioana Rusu  |   |
+| 05.10.2023 | V1.1 | Andreea Ioana Rusu | More details added on Test Implementation |
+| 18.11.2023 | V1.2 | Andreea Ioana Rusu  | Test completion report added |
 
 
     1. Introduction
@@ -181,7 +181,7 @@ To show the time line a Gantt Chart was done: ![Gantt Chart (Jira)](https://gith
 
 #### 3.8. Test completion report
 *The test completion report generated from Jira:
-![Test Completion Report](https://github.com/andioniciuc/ARusu-RayToys_Manual_Testing/blob/main/ZephyrTestSteps+Executions+Results(Jira).pdf)
+![Test Completion Report](https://github.com/andioniciuc/ARusu-RayToys_Manual_Testing/blob/main/Test-Report_RayToys.pdf)
 
 
 
