@@ -142,7 +142,6 @@ Various periodic reports were generated to reflect the current status of the tes
 
 ![Test Monitoring Progress](https://github.com/andioniciuc/ARusu-RayToys_Manual_Testing/blob/main/DailyTestExecutionProgress.png)
 
-A time report file was exported as pdf, from Jira as attached: ![Time by Status Report](https://github.com/andioniciuc/ARusu-RayToys_Manual_Testing/blob/main/TimebyStatusReport.pdf)
 
 #### 3. Test deliverables
 
