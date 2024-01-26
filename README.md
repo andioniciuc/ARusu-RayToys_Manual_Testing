@@ -181,7 +181,7 @@ To show the time line a Gantt Chart was done: ![Gantt Chart (Jira)](https://gith
 
 #### 3.8. Test completion report
 *The test completion report generated from Jira:
-![Test Completion Report](https://github.com/andioniciuc/ARusu-RayToys_Manual_Testing/blob/main/Test-Report_RayToys.pdf)
+![Test Completion Report](https://github.com/andioniciuc/ARusu-RayToys_Manual_Testing/blob/main/Test-Report-RayToys.pdf)
 
 
 
